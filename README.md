@@ -3,7 +3,7 @@
 You can get specific key values from a JavaScript object.
   
 ## Usage
-  var obj = {
+  <span style="color:#d73a49">var</span> obj = {
             firstName:'John',
             lastName:'Smith',
             address:'US'
